@@ -47,3 +47,13 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Data
+Data/
+
+# Tests and old scripts
+Script/Old/*~
+Script/Test/*~
+
+# Output
+Output/
